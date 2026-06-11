@@ -39,7 +39,7 @@ export default function App() {
           🌤 Weather
         </button>
         <button className={`${styles.tab} ${tab === 'forestry' ? styles.tabActive : ''}`} onClick={() => setTab('forestry')}>
-          🌲 Farm Analysis
+          🌲 Forestry Analysis
         </button>
       </nav>
 

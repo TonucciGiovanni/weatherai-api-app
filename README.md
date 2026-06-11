@@ -30,7 +30,7 @@ A mobile-first React app that integrates the [WeatherAI](https://weather-ai.co) 
 - **Celsius / Fahrenheit toggle** — switch display units without re-fetching data
 - **7-day forecast with chart** — scrollable forecast cards plus a Recharts area chart for high/low trends
 - **AI-powered weather summaries** — optional Gemini-generated insights from the WeatherAI API
-- **Farm / forestry image analysis** — upload aerial or satellite images for tree count, canopy health, and AI recommendations
+- **Forestry image analysis** — upload aerial or satellite images for tree count, canopy health, and AI recommendations
 
 
 ## Tech Stack
