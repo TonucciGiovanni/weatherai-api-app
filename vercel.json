@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/weatherai/:path*",
+      "destination": "https://api.weather-ai.co/:path*"
+    }
+  ]
+}
