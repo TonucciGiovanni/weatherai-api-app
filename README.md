@@ -2,7 +2,8 @@
 
 A mobile-first React app that integrates the [WeatherAI](https://weather-ai.co) API for live weather data, AI summaries, and forestry image analysis.
 
-**[Live Demo](https://your-vercel-url.vercel.app)**
+**[Live Demo](https://weatherai-api-app.vercel.app/)**
+
 
 ![App Screenshot]
 <img width="511" height="960" alt="image" src="https://github.com/user-attachments/assets/57c3634a-5845-4084-92b2-ca9b2ed0bf26" />
