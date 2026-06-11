@@ -5,7 +5,6 @@ A mobile-first React app that integrates the [WeatherAI](https://weather-ai.co) 
 **[Live Demo](https://weatherai-api-app.vercel.app/)**
 
 
-![App Screenshot]
 <img width="511" height="960" alt="image" src="https://github.com/user-attachments/assets/57c3634a-5845-4084-92b2-ca9b2ed0bf26" />
 
 
