@@ -16,7 +16,7 @@ export default function App() {
         <div className={styles.headerTop}>
           <div>
             <div className={styles.brand}>WeatherAI<span className={styles.brandDot}>.</span></div>
-            <div className={styles.tagline}>API INTEGRATION DEMO · Giovanni Tonucci</div>
+            <div className={styles.tagline}>API INTEGRATION APP · Giovanni Tonucci</div>
           </div>
           <div className={`${styles.statusDot} ${keyValid ? styles.dotOk : ''}`} title={keyValid ? 'API key looks valid' : 'Waiting for API key'} />
         </div>
